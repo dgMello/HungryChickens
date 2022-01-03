@@ -1,0 +1,5 @@
+# List all python libraries for the lambda
+tensorflow==2.7.0
+tensorflow_hub==0.11
+twilio==7.4
+numpy==1.21.2
